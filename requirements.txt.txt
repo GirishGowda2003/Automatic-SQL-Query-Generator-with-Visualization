@@ -1,0 +1,25 @@
+******* AUTOMATIC SQL QUERY GRNERATOR WITH VISUALIZATION *********
+
+LLM - models( download any one model and run)
+
+1. lamma3
+2. qwen3:1.7b
+3. gemma2
+
+
+run in the cmd prompt 
+
+pip install ollama
+
+ollama pull llama3
+
+or
+
+ollama pull qwen:1.7b
+
+* comform the model name in code (app.py)
+* Then go to the vs code and run streamlit run app.py
+* After executing the model select the csv file and upload.
+* Then ask a question in the prompt
+* U can see the result that sql query and the visualization part 
+* where u can easily analyse a dataset.
