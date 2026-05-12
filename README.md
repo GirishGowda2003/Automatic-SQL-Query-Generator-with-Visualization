@@ -2,6 +2,8 @@
 
 ## 🚀 Overview
 
+project deployment : https://automatic-sql-query-generator-with-visualization-xa7mby8rnwz5r.streamlit.app/
+
 This project is an AI-powered data analysis tool that allows users to interact with their datasets using natural language. It leverages a local Large Language Model (LLM) to automatically convert user queries into SQL, execute them, and visualize the results.
 
 ---
